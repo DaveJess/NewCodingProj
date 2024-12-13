@@ -1,2 +1,2 @@
-# NewCodingProj
+# NewProject
 New Repo
